@@ -171,8 +171,3 @@ kobo-a-umap/
 
 Proyecto de codigo abierto creado para apoyar el trabajo de colectivas feministas y activistas. Sugerencias y mejoras bienvenidas via issues o pull requests.
 
----
-
-## Licencia
-
-MIT — libre para usar, modificar y compartir.
