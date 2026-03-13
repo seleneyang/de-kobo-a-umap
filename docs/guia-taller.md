@@ -1,4 +1,4 @@
-# 📚 Guía para el taller — Kobo → UMap
+# Guía para el taller — Kobo → UMap
 
 Esta guía está pensada para usarse durante el taller con la colectiva. Podés seguirla paso a paso con las compañeras.
 
@@ -8,8 +8,50 @@ Esta guía está pensada para usarse durante el taller con la colectiva. Podés 
 
 - [ ] Todas tienen Python 3 instalado (`python3 --version` en la terminal)
 - [ ] Todas tienen acceso a su formulario de KoboToolbox
+- [ ] El formulario de Kobo tiene los campos obligatorios (ver sección abajo)
 - [ ] Se creó un mapa en UMap para practicar
 - [ ] Se descargó este repositorio en las computadoras
+
+---
+
+## Campos que debe tener el formulario de Kobo
+
+Antes de recopilar datos, asegurate de que el formulario tenga estos campos:
+
+### Obligatorios (el script no funciona sin estos)
+
+| Qué pregunta | Tipo en Kobo | Nombre interno sugerido |
+|---|---|---|
+| Nombre del lugar | Text | `nombre_establecimiento` |
+| Ubicación GPS | Geopoint | `ubicacion_establecimiento` |
+
+> Kobo desglosa el GPS automáticamente en 4 columnas al exportar: `_latitude`, `_longitude`, `_altitude` y `_precision`. El script usa solo las dos primeras — no tenés que hacer nada extra.
+
+### Opcional (para mostrar fotos en el popup)
+
+| Qué pregunta | Tipo en Kobo | Nombre interno sugerido |
+|---|---|---|
+| Foto del lugar | Photo | `foto_establecimiento` |
+
+### El resto: libertad total 
+
+Cualquier otra pregunta que agreguen (texto, selección única, selección múltiple, números) aparecerá automáticamente en el popup de UMap. No hay que tocar el script.
+
+---
+
+### Etiqueta vs. nombre interno — diferencia importante
+
+Kobo maneja dos nombres por cada pregunta:
+
+- **Etiqueta** → lo que ve la usuaria al llenar el formulario  
+  Ejemplo: *"¿Cómo se llama este lugar?"*
+- **Nombre interno (XML)** → lo que aparece como columna en el CSV exportado  
+  Ejemplo: `nombre_establecimiento`
+
+El script usa los **nombres internos**. Por eso en la sección `⚙️ CONFIGURACIÓN` del script hay que poner exactamente el nombre interno que eligieron en Kobo para las columnas de nombre, foto y ubicación.
+
+**¿Dónde veo el nombre interno en Kobo?**
+En el editor del formulario, al hacer click en una pregunta, aparece el campo **"Nombre de datos"** — ese es el nombre interno.
 
 ---
 
@@ -21,10 +63,10 @@ Esta guía está pensada para usarse durante el taller con la colectiva. Podés 
 4. Configurá la exportación:
    - **Formato:** CSV
    - **Exportar:** Todos los datos
-   - ✅ Activá **"Usar etiquetas en lugar de nombres XML"**
+   - Activá **"Usar etiquetas en lugar de nombres XML"**
 5. Click en **"Exportar"** y luego **"Descargar"**
 
-> 💡 **Tip:** El archivo descargado va a tener un nombre largo con la fecha. Podés renombrarlo a algo más corto como `datos.csv`.
+> **Tip:** El archivo descargado va a tener un nombre largo con la fecha. Podés renombrarlo a algo más corto como `datos.csv`.
 
 ---
 
@@ -36,24 +78,23 @@ Buscá la sección que dice `⚙️ CONFIGURACIÓN` y ajustá estas líneas:
 
 ### ¿Cómo sé el nombre exacto de mis columnas?
 
-Abrí el CSV con Excel o Google Sheets y mirá la primera fila — esos son los nombres de columnas.
+Tenés dos opciones:
+- **Opción A:** Abrí el CSV con Excel o Google Sheets y mirá la primera fila — esos son los nombres internos.
+- **Opción B:** En Kobo, entrá al editor del formulario → click en la pregunta → mirá el campo **"Nombre de datos"**.
 
 ```python
-# Cambiá esto por el nombre exacto de tu columna de nombre
-COLUMNA_NOMBRE = "Nombre del establecimiento"
+# Nombre interno de la pregunta de texto con el nombre del lugar
+COLUMNA_NOMBRE = "nombre_establecimiento"
 
-# Cambiá esto por el nombre de tu pregunta tipo "foto" en Kobo
+# Nombre interno de la pregunta tipo Photo
+# Si no tenés fotos en el formulario, dejalo como está — el script lo ignora
 COLUMNA_FOTO = "foto_establecimiento"
-
-# Si tus fotos están en un servidor propio, poné la URL base aquí
-# Si no tenés fotos todavía, dejalo vacío: ""
-BASE_URL_FOTOS = ""
 
 # Ancho de la imagen en el popup (en píxeles)
 ANCHO_IMAGEN = 300
 ```
 
-> ⚠️ **Importante:** Los nombres de columnas deben ser **exactamente** iguales, incluyendo mayúsculas, minúsculas y espacios.
+> **Importante:** Los nombres deben ser **exactamente** iguales a los del CSV, incluyendo mayúsculas, minúsculas y espacios.
 
 ---
 
@@ -122,6 +163,9 @@ PRÓXIMOS PASOS EN UMAP:
 ---
 
 ## Problemas frecuentes
+
+### El script no encuentra mis columnas / el popup aparece sin datos
+El nombre interno en el script no coincide con el del CSV. Abrí el CSV, copiá el nombre exacto de la columna (primera fila) y pegalo en la sección `⚙️ CONFIGURACIÓN` del script.
 
 ### "No se encontró el archivo"
 Verificá que el nombre del CSV que escribiste en el comando sea exactamente igual al nombre del archivo, incluyendo la extensión `.csv`.
