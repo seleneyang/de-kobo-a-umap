@@ -1,8 +1,0 @@
-# Para usar el script SIN fotos: no se necesita instalar nada extra
-# Python 3.7+ ya incluye todo lo necesario.
-
-# Para usar el script CON fotos (--fotos):
-google-auth>=2.0.0
-google-auth-oauthlib>=1.0.0
-google-auth-httplib2>=0.1.0
-google-api-python-client>=2.0.0
