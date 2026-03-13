@@ -20,6 +20,12 @@ Convierte exportaciones CSV de KoboToolbox en archivos GeoJSON listos para impor
 ## Requisitos
 
 - Python 3.7 o superior
+
+Instalar la libreria (obligatorio antes de correr el script por primera vez):
+```bash
+pip3 install Python 3.7
+```
+
 - Libreria de Cloudinary
 
 Instalar la libreria (obligatorio antes de correr el script por primera vez):
