@@ -1,4 +1,4 @@
-# 🗺️ Kobo → UMap
+# Kobo → UMap
 
 **Herramienta para colectivas activistas que mapean con KoboToolbox y UMap.**
 
@@ -11,9 +11,9 @@ Convierte automáticamente las exportaciones CSV de KoboToolbox en archivos GeoJ
 - Lee el CSV exportado desde KoboToolbox
 - Genera un archivo `.geojson` compatible con UMap
 - Crea un popup automático con:
-  - 📍 Nombre del lugar
-  - 🖼️ Imagen (formateada para UMap)
-  - 📋 Todos los campos del formulario
+  - Nombre del lugar
+  - Imagen (formateada para UMap)
+  - Todos los campos del formulario
 - Solo necesitas poner `{popup}` en la plantilla de UMap y ¡listo!
 
 ---
@@ -89,22 +89,6 @@ https://url-de-la-imagen.com|300
 ```
 
 Si las fotos están en un servidor propio (por ejemplo, tu sitio web), configurá `BASE_URL_FOTOS` con la URL base y el script completará las rutas automáticamente.
-
----
-
-## Estructura del repositorio
-
-```
-kobo-a-umap/
-├── kobo_a_umap.py              ← Script principal
-├── README.md                   ← Esta guía
-├── .gitignore                  ← Archivos excluidos de Git
-├── datos/
-│   └── ejemplo/
-│       └── ejemplo_resultado_umap.geojson   ← Ejemplo de salida
-└── docs/
-    └── guia-taller.md          ← Guía paso a paso para el taller
-```
 
 ---
 
