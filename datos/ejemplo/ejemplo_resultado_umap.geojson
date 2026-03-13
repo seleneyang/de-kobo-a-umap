@@ -1,0 +1,2216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.059855,
+          9.902325
+        ]
+      },
+      "properties": {
+        "name": "Botica Familiar",
+        "popup": "# Botica Familiar\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Recomendaron tomar una gravol previo para evitar vomitar",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Recomendaron tomar una gravol previo para evitar vomitar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.921096,
+          9.865568
+        ]
+      },
+      "properties": {
+        "name": "Botica García",
+        "popup": "# Botica García\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Fue la experiencia más incómoda porque la vendedora no tenía tanta apertura e iba a consular adentro con cada pregunta que le hacía. 12000, 9900 y 11300 colones, no me indicó cuáles marcas \"son tres marcas, igual las tres se venden...\".",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Fue la experiencia más incómoda porque la vendedora no tenía tanta apertura e iba a consular adentro con cada pregunta que le hacía. 12000, 9900 y 11300 colones, no me indicó cuáles marcas \"son tres marcas, igual las tres se venden...\"."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.915807,
+          9.864828
+        ]
+      },
+      "properties": {
+        "name": "Botica Los Ángeles",
+        "popup": "# Botica Los Ángeles\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Postday 13100, marca 2, 14000. Me dio sugerencias pero no muy segura, lamó al farmacéutico. El último comentario fue que antes de usarla, mejor use un método de barrera para \"evitar estas situaciones\".",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Postday 13100, marca 2, 14000. Me dio sugerencias pero no muy segura, lamó al farmacéutico. El último comentario fue que antes de usarla, mejor use un método de barrera para \"evitar estas situaciones\"."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.086098,
+          10.442522
+        ]
+      },
+      "properties": {
+        "name": "CAIS Cañas",
+        "popup": "# CAIS Cañas\n\n**Tipo de establecimiento :** Ebais o clínica\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** Sí\n**¿Te pidieron identificación?:** Sí\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** Sí\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** Sí\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Lo recomiendo porque tenés acceso al medicamento sin embargo puede ser abrumadora la consulta, recomiendo ir acompañadas",
+        "Tipo de establecimiento ": "Ebais o clínica",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "Sí",
+        "¿Te pidieron identificación?": "Sí",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "Sí",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "Sí",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Lo recomiendo porque tenés acceso al medicamento sin embargo puede ser abrumadora la consulta, recomiendo ir acompañadas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79842,
+          9.653226
+        ]
+      },
+      "properties": {
+        "name": "Clinica Rosa Leon Chang Talamanca",
+        "popup": "# Clinica Rosa Leon Chang Talamanca\n\n**Tipo de establecimiento :** Ebais o clínica\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el método combinado (combinación de pastillas anticonceptivas)\n**¿Te pidieron receta médica?:** Sí\n**¿Te pidieron identificación?:** Sí\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy malo\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** A pesar que la Caja Costarricense debe de tener disponibles, no hay para Talamanca. Ningun personal médico disponible tenia idea sobre como manejar la situación. Hable con 2 secretarias y dos doctoras y me recomendaron metodo Yuzpe o en una farmacia privada cercana. La tercera doctora con la que hable me recetó Norgyl, de muy mala manera, sin explicación de como tomarme las pastilllas, ni ninguna pregunta o advertencia.",
+        "Tipo de establecimiento ": "Ebais o clínica",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el método combinado (combinación de pastillas anticonceptivas)",
+        "¿Te pidieron receta médica?": "Sí",
+        "¿Te pidieron identificación?": "Sí",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy malo",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "A pesar que la Caja Costarricense debe de tener disponibles, no hay para Talamanca. Ningun personal médico disponible tenia idea sobre como manejar la situación. Hable con 2 secretarias y dos doctoras y me recomendaron metodo Yuzpe o en una farmacia privada cercana. La tercera doctora con la que hable me recetó Norgyl, de muy mala manera, sin explicación de como tomarme las pastilllas, ni ninguna pregunta o advertencia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.920645,
+          9.871133
+        ]
+      },
+      "properties": {
+        "name": "Ebais El Carmen 1 y 2",
+        "popup": "# Ebais El Carmen 1 y 2\n\n**Tipo de establecimiento :** Ebais o clínica\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Dicen que en la Caja no tienen la pastilla, la recepecionsta indagó con dos médicos en consulta.",
+        "Tipo de establecimiento ": "Ebais o clínica",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Dicen que en la Caja no tienen la pastilla, la recepecionsta indagó con dos médicos en consulta."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.738335,
+          9.173347
+        ]
+      },
+      "properties": {
+        "name": "Ebais Uvita",
+        "popup": "# Ebais Uvita\n\n**Tipo de establecimiento :** Ebais o clínica\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** Sí\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** Sí\n**¿Te solicitaron algún otro requisito? :** Sí\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** Sí\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Requiere cita con el médico.",
+        "Tipo de establecimiento ": "Ebais o clínica",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "Sí",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "Sí",
+        "¿Te solicitaron algún otro requisito? ": "Sí",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "Sí",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Requiere cita con el médico."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.090195,
+          9.98015
+        ]
+      },
+      "properties": {
+        "name": "El rosario",
+        "popup": "# El rosario\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** 9600 el precio",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "9600 el precio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.031779,
+          9.992096
+        ]
+      },
+      "properties": {
+        "name": "Fardeli Catedral",
+        "popup": "# Fardeli Catedral\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el método combinado (combinación de pastillas anticonceptivas)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Actitud negativa, grosera o de rechazo abierto por solicitar la AOE\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy malo\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** De entrada me dijeron que no la vendían, que buscara en cualquier otra farmacia menos esa.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el método combinado (combinación de pastillas anticonceptivas)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Actitud negativa, grosera o de rechazo abierto por solicitar la AOE",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy malo",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "De entrada me dijeron que no la vendían, que buscara en cualquier otra farmacia menos esa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.209572,
+          10.017992
+        ]
+      },
+      "properties": {
+        "name": "Farma Value La Agonía",
+        "popup": "# Farma Value La Agonía\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.212025,
+          10.017793
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Aguilar",
+        "popup": "# Farmacia Aguilar\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.336954,
+          9.171617
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Buenos Aires",
+        "popup": "# Farmacia Buenos Aires\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.212479,
+          10.017414
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Calalú",
+        "popup": "# Farmacia Calalú\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Malo\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Al consultar sobre si se vendía a menores de edad, la vendedora indicó que solo se vendía si la persona medad de edad venía acompañado de un adulto, y su venta se condicionaba a si la vida de la persona gestante corría riesgo. Además se indicó que si se le vendía la pastilla se le explicaba su uso y se le indicaba que no era un medicamento para usarse a cada rato.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Malo",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Al consultar sobre si se vendía a menores de edad, la vendedora indicó que solo se vendía si la persona medad de edad venía acompañado de un adulto, y su venta se condicionaba a si la vida de la persona gestante corría riesgo. Además se indicó que si se le vendía la pastilla se le explicaba su uso y se le indicaba que no era un medicamento para usarse a cada rato."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.755122,
+          9.655996
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Caribe",
+        "popup": "# Farmacia Caribe\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** No",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030661,
+          9.991438
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Caribeña",
+        "popup": "# Farmacia Caribeña\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92027,
+          9.863808
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Central",
+        "popup": "# Farmacia Central\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Alertaron sobre desequilibrio hormonal. Marca: Postday, 13100 colones.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Alertaron sobre desequilibrio hormonal. Marca: Postday, 13100 colones."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.186098,
+          9.985299
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Clínica Latam Health Solutions",
+        "popup": "# Farmacia Clínica Latam Health Solutions\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.739257,
+          9.171615
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Costa Ballena",
+        "popup": "# Farmacia Costa Ballena\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Ligetin en 14mil y Posterga en 15,100",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Ligetin en 14mil y Posterga en 15,100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7054,
+          9.369086
+        ]
+      },
+      "properties": {
+        "name": "Farmacia doN GERARDO",
+        "popup": "# Farmacia doN GERARDO\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.163456,
+          9.431306
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Don Gerardo",
+        "popup": "# Farmacia Don Gerardo\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Cerciorate 13,700",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Cerciorate 13,700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.380328,
+          9.978515
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Don Juan",
+        "popup": "# Farmacia Don Juan\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.798127,
+          9.6525
+        ]
+      },
+      "properties": {
+        "name": "Farmacia don Manuel",
+        "popup": "# Farmacia don Manuel\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.159899,
+          9.428463
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Drs. Serrano",
+        "popup": "# Farmacia Drs. Serrano\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11739,
+          9.91797
+        ]
+      },
+      "properties": {
+        "name": "Farmacia El Cruce",
+        "popup": "# Farmacia El Cruce\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Malo\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Lo recomiendo porque es de fácil acceso. Solo tienen de la marca P.P.M.S Ultra , cuesta 14500 colones.  No dieron recomendaciones adicionales, ante mi consulta de posibles efectos secundarios o recomendaciones solo me dijeron no lo tomara con el estómago vacío  y que me iba a generar náuseas",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Malo",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Lo recomiendo porque es de fácil acceso. Solo tienen de la marca P.P.M.S Ultra , cuesta 14500 colones.  No dieron recomendaciones adicionales, ante mi consulta de posibles efectos secundarios o recomendaciones solo me dijeron no lo tomara con el estómago vacío  y que me iba a generar náuseas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.050585,
+          9.944448
+        ]
+      },
+      "properties": {
+        "name": "Farmacia El Prado",
+        "popup": "# Farmacia El Prado\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Atendieron dos personas, fueron amables. No obstante, indicaron que no venden ese medicamento.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Atendieron dos personas, fueron amables. No obstante, indicaron que no venden ese medicamento."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03297,
+          9.994766
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Farbisa",
+        "popup": "# Farmacia Farbisa\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** La farmacéutica se encargó de responder todas mis consultas y me entrego el papelito de las pastillas para que yo leyera toda la información.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "La farmacéutica se encargó de responder todas mis consultas y me entrego el papelito de las pastillas para que yo leyera toda la información."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.743126,
+          9.173283
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Galeno",
+        "popup": "# Farmacia Galeno\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Cerciorate 13,700; Post Day 14,610",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Cerciorate 13,700; Post Day 14,610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.255242,
+          10.525916
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Galeno Bagaces",
+        "popup": "# Farmacia Galeno Bagaces\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.217372,
+          10.015213
+        ]
+      },
+      "properties": {
+        "name": "Farmacia GEM",
+        "popup": "# Farmacia GEM\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33644,
+          9.17237
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Idalgo",
+        "popup": "# Farmacia Idalgo\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** Sí\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Lo recomendaría sólo porque es de las pocas farmacias que hay en el cantón",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "Sí",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Lo recomendaría sólo porque es de las pocas farmacias que hay en el cantón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.433923,
+          10.63179
+        ]
+      },
+      "properties": {
+        "name": "Farmacia inmaculada",
+        "popup": "# Farmacia inmaculada\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.937516,
+          9.844776
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Interamericana Sur",
+        "popup": "# Farmacia Interamericana Sur\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Posterga c19.100, Postday c7.600, sí explicaron, pero muy brevemente, como en las demás.",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Posterga c19.100, Postday c7.600, sí explicaron, pero muy brevemente, como en las demás."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.91976,
+          9.865431
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Jara",
+        "popup": "# Farmacia Jara\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** La vendedora indicó no saber si han o no vendido antes la pastilla en esa farmacia, e indicó que solo con el medicamento ahí me podría dar información sobre efectos secundarios, pero advirtió que puede ser riesgosa en casos de hipertensión.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "La vendedora indicó no saber si han o no vendido antes la pastilla en esa farmacia, e indicó que solo con el medicamento ahí me podría dar información sobre efectos secundarios, pero advirtió que puede ser riesgosa en casos de hipertensión."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.432318,
+          10.636272
+        ]
+      },
+      "properties": {
+        "name": "Farmacia la botica",
+        "popup": "# Farmacia la botica\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.163219,
+          9.430168
+        ]
+      },
+      "properties": {
+        "name": "Farmacia La Económica",
+        "popup": "# Farmacia La Económica\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Posterga en 18,870, Post Day 1 en 16,835 y Ligetin en 14,180",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Posterga en 18,870, Post Day 1 en 16,835 y Ligetin en 14,180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16339,
+          9.430195
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Maral",
+        "popup": "# Farmacia Maral\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.213487,
+          10.020813
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Maroto",
+        "popup": "# Farmacia Maroto\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.053805,
+          9.918649
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Nazaret",
+        "popup": "# Farmacia Nazaret\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Malo\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** La persona que me atendió indicó no estar a favor de ese medicamento y que por eso, ni ella, ni su socia la vendian. Les parece que tiene efectos secundarios, cuando le pregunté por los datos que lo respaldaban me dijo que era un tema de los componentes.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Malo",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "La persona que me atendió indicó no estar a favor de ese medicamento y que por eso, ni ella, ni su socia la vendian. Les parece que tiene efectos secundarios, cuando le pregunté por los datos que lo respaldaban me dijo que era un tema de los componentes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.152585,
+          9.920804
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Óscar",
+        "popup": "# Farmacia Óscar\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Recomendaría el lugar porque es fácil acceder al medicamento. No dan información adicional, me indicaron que me podía dar náuseas, no me dieron alguna recomendación adicional. Solo tiene a la venta la PostDay. Cuesta 16000 colones",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Recomendaría el lugar porque es fácil acceder al medicamento. No dan información adicional, me indicaron que me podía dar náuseas, no me dieron alguna recomendación adicional. Solo tiene a la venta la PostDay. Cuesta 16000 colones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.458626,
+          8.961666
+        ]
+      },
+      "properties": {
+        "name": "Farmacia palmar norte",
+        "popup": "# Farmacia palmar norte\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.115807,
+          9.99736
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Provida",
+        "popup": "# Farmacia Provida\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Recomendaron gravol previa",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Recomendaron gravol previa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.753657,
+          9.6575
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Puerto Viejo",
+        "popup": "# Farmacia Puerto Viejo\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** La doctora fue demasiado amorosa, me explicó todo con detalles, me ofreció pastillas para contrarrestar los efectos secundarios. Me preguntó mi peso y me dijo que debia tomarme dos porque podría no hacer efecto.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "La doctora fue demasiado amorosa, me explicó todo con detalles, me ofreció pastillas para contrarrestar los efectos secundarios. Me preguntó mi peso y me dijo que debia tomarme dos porque podría no hacer efecto."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.380556,
+          9.97975
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Puntrenas Atenas",
+        "popup": "# Farmacia Puntrenas Atenas\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.029753,
+          9.991596
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Quiribrí",
+        "popup": "# Farmacia Quiribrí\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Malo\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Hubo comentarios como relación sexual irresponsable y malas caras ante la consulta.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Malo",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Hubo comentarios como relación sexual irresponsable y malas caras ante la consulta."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.842118,
+          9.736267
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Quiribrí",
+        "popup": "# Farmacia Quiribrí\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** No\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** No",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "No",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.936395,
+          9.844294
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Real",
+        "popup": "# Farmacia Real\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Postday, c12.100.",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Postday, c12.100."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.917545,
+          9.8643
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Saba #3",
+        "popup": "# Farmacia Saba #3\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Posterga 13340 y Postday 11900 colones. El vendedor llam'o a la doctora para que me aclarara preguntas.",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Posterga 13340 y Postday 11900 colones. El vendedor llam'o a la doctora para que me aclarara preguntas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.186969,
+          9.979081
+        ]
+      },
+      "properties": {
+        "name": "Farmacia San Antonio",
+        "popup": "# Farmacia San Antonio\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Solicitan que las personas menores de edad deban ir acompañados de una persona adulta",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Solicitan que las personas menores de edad deban ir acompañados de una persona adulta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.208387,
+          10.01411
+        ]
+      },
+      "properties": {
+        "name": "Farmacía Santa Lucía",
+        "popup": "# Farmacía Santa Lucía\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.966096,
+          10.470744
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Sarah",
+        "popup": "# Farmacia Sarah\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** En ese momento me dijeron que no tenían pero que sí la venden",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "En ese momento me dijeron que no tenían pero que sí la venden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.091991,
+          10.426629
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Siglo 21",
+        "popup": "# Farmacia Siglo 21\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Tenían buena disposición a responder consultas sobre las marcas",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Tenían buena disposición a responder consultas sobre las marcas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.966302,
+          10.472101
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Sion",
+        "popup": "# Farmacia Sion\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.966352,
+          10.472121
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Sion",
+        "popup": "# Farmacia Sion\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.736217,
+          9.166181
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Tico Gringo",
+        "popup": "# Farmacia Tico Gringo\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Cerciorate en 10,950, Ligetin en 16,900, Post Day 1 en 11,850 y Posterga en 15,850",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Cerciorate en 10,950, Ligetin en 16,900, Post Day 1 en 11,850 y Posterga en 15,850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.967873,
+          10.469833
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Tilarán",
+        "popup": "# Farmacia Tilarán\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.207805,
+          10.008889
+        ]
+      },
+      "properties": {
+        "name": "Farmacia y Macrobiótic Vita Nova",
+        "popup": "# Farmacia y Macrobiótic Vita Nova\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Hubo comentarios que generaron incomodidad o insinuaciones moralizantes\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** No",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Hubo comentarios que generaron incomodidad o insinuaciones moralizantes",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.016198,
+          9.917847
+        ]
+      },
+      "properties": {
+        "name": "Farmacia Zeledon",
+        "popup": "# Farmacia Zeledon\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.743877,
+          9.175804
+        ]
+      },
+      "properties": {
+        "name": "Farmacias Bienestar",
+        "popup": "# Farmacias Bienestar\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Post day 1 en 12,500 CRC",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Post day 1 en 12,500 CRC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.863656,
+          9.256082
+        ]
+      },
+      "properties": {
+        "name": "Farmar",
+        "popup": "# Farmar\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** La post-day estaba en 15,600",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "La post-day estaba en 15,600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.919347,
+          9.864268
+        ]
+      },
+      "properties": {
+        "name": "FarmaValue Las Ruinas",
+        "popup": "# FarmaValue Las Ruinas\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** Sí\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Ligetin 15000 colones, Posterga 15.950, Postday 13260 colones. Representante llamó a doctora para que ampliara en efectos secundarios.",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "Sí",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Ligetin 15000 colones, Posterga 15.950, Postday 13260 colones. Representante llamó a doctora para que ampliara en efectos secundarios."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.025616,
+          9.940715
+        ]
+      },
+      "properties": {
+        "name": "Galeno",
+        "popup": "# Galeno\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Es la farmacia después del puente de Tárcoles",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Es la farmacia después del puente de Tárcoles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.945848,
+          9.838825
+        ]
+      },
+      "properties": {
+        "name": "La Arboleda",
+        "popup": "# La Arboleda\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Postday c13.090, indicó que \"no es abortar ni nada de eso, como dicen\".",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Postday c13.090, indicó que \"no es abortar ni nada de eso, como dicen\"."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.089668,
+          9.979435
+        ]
+      },
+      "properties": {
+        "name": "La Bomba",
+        "popup": "# La Bomba\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** No\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el método combinado (combinación de pastillas anticonceptivas)\n**¿Te pidieron receta médica?:** Sí\n**¿Te pidieron identificación?:** Sí\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** Sí\n**¿Te solicitaron algún otro requisito? :** Sí\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Qué calificación le darías al servicio?:** Muy malo\n**¿Recomendarías este lugar a otras mujeres?:** No",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "No",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el método combinado (combinación de pastillas anticonceptivas)",
+        "¿Te pidieron receta médica?": "Sí",
+        "¿Te pidieron identificación?": "Sí",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "Sí",
+        "¿Te solicitaron algún otro requisito? ": "Sí",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Qué calificación le darías al servicio?": "Muy malo",
+        "¿Recomendarías este lugar a otras mujeres?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.056977,
+          9.909662
+        ]
+      },
+      "properties": {
+        "name": "La Bomba",
+        "popup": "# La Bomba\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** No",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21369,
+          10.017139
+        ]
+      },
+      "properties": {
+        "name": "La Bomba, Parque Central Alajuela",
+        "popup": "# La Bomba, Parque Central Alajuela\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** No",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "No"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.038881,
+          9.914103
+        ]
+      },
+      "properties": {
+        "name": "La Farma",
+        "popup": "# La Farma\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** Sí\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Solo tenian a la venta de la marca PostDay. Me recomendaron tomarla en la noche y acompañarla con gravol para dormir y evitar las nauseas que da el medicamento. Cuesta menos de 9000 colones",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "Sí",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Solo tenian a la venta de la marca PostDay. Me recomendaron tomarla en la noche y acompañarla con gravol para dormir y evitar las nauseas que da el medicamento. Cuesta menos de 9000 colones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.255,
+          10.527727
+        ]
+      },
+      "properties": {
+        "name": "La Guanacasteca",
+        "popup": "# La Guanacasteca\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** De ₡15.000 a ₡20.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "De ₡15.000 a ₡20.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.704091,
+          9.372445
+        ]
+      },
+      "properties": {
+        "name": "Mate",
+        "popup": "# Mate\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Muy bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Habían tres marcas disponibles. De 9500 hasta 13700 colones",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Muy bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Habían tres marcas disponibles. De 9500 hasta 13700 colones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.703933,
+          9.371842
+        ]
+      },
+      "properties": {
+        "name": "Saba",
+        "popup": "# Saba\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "Sí, el método combinado de pastillas anticonceptivas y el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.091241,
+          10.42761
+        ]
+      },
+      "properties": {
+        "name": "San Gerardo",
+        "popup": "# San Gerardo\n\n**Tipo de establecimiento :** Farmacia local\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** Sí\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** No\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato amable, profesional, sin juicios, con disposición a la escucha\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** No\n**¿Te explicaron cómo se toma la pastilla? :** No\n**¿Te explicaron el mecanismo de acción de la pastilla? :** No\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Bueno\n**¿Recomendarías este lugar a otras mujeres?:** Sí",
+        "Tipo de establecimiento ": "Farmacia local",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "Sí",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "No",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato amable, profesional, sin juicios, con disposición a la escucha",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "No",
+        "¿Te explicaron cómo se toma la pastilla? ": "No",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "No",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Bueno",
+        "¿Recomendarías este lugar a otras mujeres?": "Sí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.090188,
+          9.979166
+        ]
+      },
+      "properties": {
+        "name": "Sucre",
+        "popup": "# Sucre\n\n**Tipo de establecimiento :** Cadena de farmacias\n**¿Tiene AE a la venta?:** Sí\n**¿Había más de una marca disponible?:** No\n**¿Te ofrecieron más de un método de anticoncepción de emergencia? :** No, solo el producto dedicado (1 pastilla)\n**¿Te pidieron receta médica?:** No\n**¿Te pidieron identificación?:** Sí\n**¿Te pidieron completar algún cuestionario o responder preguntas?:** No\n**¿Te solicitaron algún otro requisito? :** No\n**¿Cómo fue el trato recibido durante la consulta/compra?:** Trato correcto pero distante; sin amabilidad ni hostilidad\n**¿Atendieron tus consultas y dudas? :** Sí\n**¿Te atendió más de una persona? :** No\n**¿Te hicieron preguntas sobre tu vida sexual?:** Sí\n**¿Te explicaron cómo se toma la pastilla? :** Sí\n**¿Te explicaron el mecanismo de acción de la pastilla? :** Sí\n**¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?:** No\n**¿Cuál es el costo de la pastilla?:** Menos de ₡15.000\n**¿Qué calificación le darías al servicio?:** Regular\n**¿Recomendarías este lugar a otras mujeres?:** No\n**¿Hay algo que más que agregar con respecto a esta experiencia? :** Prejuicios sobre utilización seguida",
+        "Tipo de establecimiento ": "Cadena de farmacias",
+        "¿Tiene AE a la venta?": "Sí",
+        "¿Había más de una marca disponible?": "No",
+        "¿Te ofrecieron más de un método de anticoncepción de emergencia? ": "No, solo el producto dedicado (1 pastilla)",
+        "¿Te pidieron receta médica?": "No",
+        "¿Te pidieron identificación?": "Sí",
+        "¿Te pidieron completar algún cuestionario o responder preguntas?": "No",
+        "¿Te solicitaron algún otro requisito? ": "No",
+        "¿Cómo fue el trato recibido durante la consulta/compra?": "Trato correcto pero distante; sin amabilidad ni hostilidad",
+        "¿Atendieron tus consultas y dudas? ": "Sí",
+        "¿Te atendió más de una persona? ": "No",
+        "¿Te hicieron preguntas sobre tu vida sexual?": "Sí",
+        "¿Te explicaron cómo se toma la pastilla? ": "Sí",
+        "¿Te explicaron el mecanismo de acción de la pastilla? ": "Sí",
+        "¿Te explicaron sobre posibles efectos secundarios y cómo contrarrestarlos?": "No",
+        "¿Cuál es el costo de la pastilla?": "Menos de ₡15.000",
+        "¿Qué calificación le darías al servicio?": "Regular",
+        "¿Recomendarías este lugar a otras mujeres?": "No",
+        "¿Hay algo que más que agregar con respecto a esta experiencia? ": "Prejuicios sobre utilización seguida"
+      }
+    }
+  ]
+}
