@@ -1,5 +1,0 @@
-# Necesario para subir fotos a Cloudinary:
-cloudinary>=1.36.0
-
-# Instalacion:
-#   pip3 install cloudinary
