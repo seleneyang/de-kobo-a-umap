@@ -52,7 +52,7 @@ pip3 install cloudinary
 ## Instalacion
 
 ```bash
-git clone https://github.com/TU_USUARIO/kobo-a-umap.git
+git clone https://github.com/TU_USUARIO/de-kobo-a-umap.git
 cd kobo-a-umap
 ```
 
