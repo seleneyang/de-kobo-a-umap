@@ -1,4 +1,4 @@
-# 📚 Guía para el taller — Kobo → UMap
+# Guía para el taller — Kobo → UMap
 
 Esta guía está pensada para usarse durante el taller con la colectiva. Podés seguirla paso a paso con las compañeras.
 
@@ -21,7 +21,7 @@ Esta guía está pensada para usarse durante el taller con la colectiva. Podés 
 4. Configurá la exportación:
    - **Formato:** CSV
    - **Exportar:** Todos los datos
-   - ✅ Activá **"Usar etiquetas en lugar de nombres XML"**
+   - Activá **"Usar etiquetas en lugar de nombres XML"**
 5. Click en **"Exportar"** y luego **"Descargar"**
 
 > 💡 **Tip:** El archivo descargado va a tener un nombre largo con la fecha. Podés renombrarlo a algo más corto como `datos.csv`.
@@ -32,7 +32,7 @@ Esta guía está pensada para usarse durante el taller con la colectiva. Podés 
 
 Abrí el archivo `kobo_a_umap.py` con cualquier editor de texto (Bloc de notas, TextEdit, VSCode, etc.).
 
-Buscá la sección que dice `⚙️ CONFIGURACIÓN` y ajustá estas líneas:
+Buscá la sección que dice `CONFIGURACIÓN` y ajustá estas líneas:
 
 ### ¿Cómo sé el nombre exacto de mis columnas?
 
@@ -53,7 +53,7 @@ BASE_URL_FOTOS = ""
 ANCHO_IMAGEN = 300
 ```
 
-> ⚠️ **Importante:** Los nombres de columnas deben ser **exactamente** iguales, incluyendo mayúsculas, minúsculas y espacios.
+> **Importante:** Los nombres de columnas deben ser **exactamente** iguales, incluyendo mayúsculas, minúsculas y espacios.
 
 ---
 
@@ -87,8 +87,8 @@ python3 kobo_a_umap.py nombre_de_tu_archivo.csv
 ### ¿Qué debería ver?
 
 ```
-📂 Procesando: datos.csv
-✅ ¡Listo! 71 puntos exportados a: datos_umap.geojson
+Procesando: datos.csv
+¡Listo! 71 puntos exportados a: datos_umap.geojson
 
 ──────────────────────────────────────────────────
 PRÓXIMOS PASOS EN UMAP:
