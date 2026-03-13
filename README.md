@@ -97,24 +97,6 @@ Los nombres deben coincidir exactamente con los de la primera fila del CSV.
 
 ---
 
-## Estructura del repositorio
-
-```
-kobo-a-umap/
-├── kobo_a_umap.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── datos/
-│   └── ejemplo/
-│       └── ejemplo_resultado_umap.geojson
-└── docs/
-    ├── guia-taller.md
-    └── guia-google-drive.md
-```
-
----
-
 ## Contribuciones
 
 Proyecto de codigo abierto creado para apoyar el trabajo de colectivas feministas y activistas. Sugerencias y mejoras bienvenidas via issues o pull requests.
