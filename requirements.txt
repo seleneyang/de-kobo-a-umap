@@ -1,3 +1,25 @@
+# Necesario para correr el script
+- Python 3.7 o superior
+
+### Instalar Python (si no esta instalado)
+
+**Mac:**
+```bash
+brew install python3
+```
+
+**Linux:**
+```bash
+sudo apt install python3
+```
+
+**Windows:** descargar e instalar desde [python.org/downloads](https://www.python.org/downloads)
+
+Verificar que quedo instalado:
+```bash
+python3 --version
+```
+
 # Necesario para subir fotos a Cloudinary:
 cloudinary>=1.36.0
 
