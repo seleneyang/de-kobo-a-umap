@@ -130,7 +130,7 @@ Si el formulario tiene fotos:
 
 Sin fotos:
 ```bash
-python3 kobo_a_umap.py datos.csv
+python3 kobo-a-umap.py datos.csv
 ```
 
 Con fotos:
