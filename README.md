@@ -135,7 +135,7 @@ python3 kobo-a-umap.py datos.csv
 
 Con fotos:
 ```bash
-python3 kobo_a_umap.py datos.csv --fotos fotos/
+python3 kobo-a-umap.py datos.csv --fotos fotos/
 ```
 
 Genera automaticamente `datos_umap.geojson`. Las fotos ya subidas se reutilizan desde el cache local.
